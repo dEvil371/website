@@ -14,6 +14,6 @@ Our plan is to update this blog once a week to highlight the work in progress in
 3. Then, copy the file `content/posts/2000-01-01-template.md` and rename it using the current date and the short title that you want.
 4. Edit that file to include your post. Don't forget to put in the right image filename and your name as the author.
 5. Set `draft: false` in the header of your post or just delete the `draft` line.
-6. Open a pull request.
+6. Open a pull request and you are ready to go.
 
 Some day we might make it easier using issues and a bot, but no promises.
